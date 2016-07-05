@@ -2,7 +2,13 @@ var favoriteWord = "mercurial"    // Use your own favorite word!
 var favoriteColor = "blue"        // Use your own favorite color!
 var favoriteMusician = "Nirvana"  // Use your own favorite musician!
 var name = "Jenny"
+let fifthPlanet: String = "Jupiter"
+let sixthPlanet: String = "Saturn"
+let seventhPlanet = "Uranus"
+let numberOfCountriesInAfrica = 54
+let numberOfMoonsOfSaturn = 62
 
+print("There are \(numberOfMoonsOfSaturn) moons orbiting \(sixthPlanet)")
 print(favoriteWord)
 print(favoriteColor)
 print(favoriteMusician)
